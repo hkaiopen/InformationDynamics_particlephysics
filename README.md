@@ -95,7 +95,7 @@ If you use this code or the results, please cite:
    > Huang, K., Liu, H., Huang, Z., & Kuang, Q. (2026). *Information Dynamics: Emergence of Non‑Abelian Gauge Fields from Local SU(N) Invariance of a Generalized Ginzburg‑Landau Equation and Phenomenological Consistency with Four Independent Experiments*. Zenodo preprint. (https://doi.org/10.5281/zenodo.19447818)
 
 2. **This software repository:**  
-   > Huang, K. (2026). *hkaiopen/InformationDynamics_particlephysics* (Version v1.0) [Computer software]. Zenodo. 
+   > Huang, K. (2026). *hkaiopen/InformationDynamics_particlephysics* (Version v1.0) [Computer software]. Zenodo.(https://doi.org/10.5281/zenodo.19448369)
 
 For the reactor neutrino anchor, please also acknowledge the JUNO Collaboration and cite arXiv:2511.21650.
 
