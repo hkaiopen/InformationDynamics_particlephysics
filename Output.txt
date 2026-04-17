@@ -4,14 +4,14 @@ Experiment 1: Hyperon Semileptonic Decay Λ → p μ⁻ ν̄_μ
 Data source: BESIII Collaboration, Phys. Rev. Lett. 127, 121802 (2021)
 Link: https://inspirehep.net/literature/1884047
 B_exp = (1.480e-04 ± 2.247e-05)
-B_SM  = (1.480e-04 ± 7.400e-06)
-Extracted p_ID = 1.0000 ± 0.1599
+B_SM  = (1.480e-04 ± 9.000e-06)
+Extracted p_ID = 1.0000 ± 0.1636
 
 ======================================================================
 Experiment 2: Reactor Neutrino Oscillation (Calibration Anchor)
 ======================================================================
-Data source: JUNO Collaboration, arXiv:2511.21650 (2025)
-Link: https://arxiv.org/abs/2511.21650
+Data source: JUNO Collaboration, arXiv:2511.14593 (2025)
+Link: https://arxiv.org/abs/2511.14593
 Δm²₂₁ (reactor) = (7.480e-05 ± 1.000e-06) eV²
 Assumed p_ID = 1.0 (information superconductor limit)
 
@@ -28,19 +28,19 @@ Experiment 4: Muon g-2 Anomalous Magnetic Moment (Fermilab 2025)
 ======================================================================
 Data source: Fermilab Muon g-2 Collaboration, arXiv:2506.03069 (2025)
 Link: https://arxiv.org/abs/2506.03069
-a_exp = 0.001165920705 ± 0.000000000146
-a_SM  = 0.00116592033 ± 5.40e-10
-Extracted p_ID = 1.000000322 ± 4.80e-07
+a_exp = 0.001165920705 ± 1.48e-10
+a_SM  = 0.00116592033 ± 6.20e-10
+Extracted p_ID = 1.000000322 ± 5.47e-07
 
 ======================================================================
 Summary of p_ID Extraction
 ======================================================================
-Experiment                                     p_ID                           Energy Scale
--------------------------------------------------------------------------------------------
-Hyperon decay Λ→pμν̄                1.0000 ± 0.1599         ~1 GeV
-Reactor neutrino (calibration)            1.0                          ~MeV
-X17 resonance                       0.999994 ± 1.00e-06        ~10 MeV
-Muon g-2                            1.000000322 ± 4.80e-07      ~100 MeV
+Experiment                          p_ID                 Energy Scale
+----------------------------------------------------------------------
+Hyperon decay Λ→pμν̄                1.0000 ± 0.1636   ~1 GeV
+Reactor neutrino (calibration)      1.0                    ~MeV
+X17 resonance                       0.999994 ± 1.00e-06   ~10 MeV
+Muon g-2                            1.000000322 ± 5.47e-07   ~100 MeV
 ======================================================================
 
 Discussion:
