@@ -21,7 +21,7 @@ The script provides a transparent, reproducible calculation of the information p
 | Experiment | Observable | Reference | Role |
 |------------|------------|-----------|------|
 | Hyperon decay | Branching fraction B_exp = (1.48 +/- 0.23) x 10^-4 | BESIII, Phys. Rev. Lett. 127, 121802 (2021) | Inversion |
-| Reactor neutrino | Delta m^2_21 = (7.48 +/- 0.10) x 10^-5 eV^2 | JUNO, arXiv:2511.21650 (2025) | **Calibration anchor** (p_ID = 1) |
+| Reactor neutrino | Delta m^2_21 = (7.48 +/- 0.10) x 10^-5 eV^2 | JUNO, arXiv:2511.14593 (2025) | **Calibration anchor** (p_ID = 1) |
 | X17 resonance | B_X = (6 +/- 1) x 10^-6 | Krasznahorkay et al., EPJ Web Conf. 232, 04005 (2020) | Inversion (p_ID = 1 - B_X) |
 | Muon g-2 | a_mu_exp = 0.001165920705, a_mu_SM = 0.00116592033 | Fermilab, arXiv:2506.03069 (2025); 2025 White Paper | Inversion (p_ID = a_mu_exp / a_mu_SM) |
 
@@ -97,7 +97,7 @@ If you use this code or the results, please cite:
 2. **This software repository:**  
    > Huang, K. (2026). *hkaiopen/InformationDynamics_particlephysics* (Version v1.0) [Computer software]. Zenodo.(https://doi.org/10.5281/zenodo.19448369)
 
-For the reactor neutrino anchor, please also acknowledge the JUNO Collaboration and cite arXiv:2511.21650.
+For the reactor neutrino anchor, please also acknowledge the JUNO Collaboration and cite arXiv:2511.14593.
 
 ---
 
